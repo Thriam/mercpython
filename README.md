@@ -12,3 +12,4 @@ Learnt
 - Mini task: Employee Salary Calculator
 - Logging
 - Try-Except
+- Regex
