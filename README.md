@@ -10,3 +10,5 @@ Learnt
 - Switch Case statements
 - To create user defined modules
 - Mini task: Employee Salary Calculator
+- Logging
+- Try-Except
