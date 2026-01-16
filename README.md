@@ -14,3 +14,5 @@ Learnt
 - Try-Except
 - Regex
 - Collections (list, tuple, set, dictionary)
+- OOPs
+- Threading
