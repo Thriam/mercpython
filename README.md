@@ -13,3 +13,4 @@ Learnt
 - Logging
 - Try-Except
 - Regex
+- Collections (list, tuple, set, dictionary)
